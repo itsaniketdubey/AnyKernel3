@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SilverCore Kernel by REIGNZ3 & Saikiran008
+kernel.string=BlazeD Kernel by HadeS
 do.devicecheck=1
 do.modules=0
 do.systemless=1
